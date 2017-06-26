@@ -1,7 +1,7 @@
 {
     "name": "hxzzy/test5",
     "description": "hello,hello,hello,hello,hello",
-    "type": "library",
+    
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
