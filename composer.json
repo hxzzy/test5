@@ -3,6 +3,7 @@
     "description": "hello,hello,hello,hello,hello",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "hxzzy",
