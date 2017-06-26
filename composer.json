@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Hxzzy\\Test5": "src/"
+            "Hxzzy\\Test5\\": "src/"
         }
     },
     "require": {}
